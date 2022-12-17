@@ -1,0 +1,2 @@
+Write a program in python which returns the gcd of two numbers?
+Write a program in python which calculates the LCM of two numbers?
